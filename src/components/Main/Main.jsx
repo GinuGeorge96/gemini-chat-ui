@@ -23,7 +23,7 @@ const Main = () => {
             <div className="main-container">
                 {
                     !showResult ? <> <div className="greet">
-                        <p><span>Hello, Pinky...</span></p>
+                        <p><span>Hello, Buddy...</span></p>
                         <p>How can i help you today?</p>
                     </div>
                         <div className="cards">
